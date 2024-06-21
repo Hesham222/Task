@@ -1,0 +1,32 @@
+Section Two:
+Please answer these questions about working conditions:
+1. What is the OS you usually work with?
+2. If not Linux, how prepared are you to work with it?
+3. How ready are you to permanently change your operating system to Linux? (0 to
+10)
+4. What editor do you usually work with? (Notepad++, PHPstorm. VSCode, ...)
+5. Are you familiar with Jira?
+=============================
+Section Three:
+Imagine yourself in the following situation, and then tell me what you will do.
+1. Imagine you need guidance from the technical manager to complete a task, and
+you've asked them a question that the task's success relies on their answer. However,
+they might not be able to respond for some reason. In such a situation, what would
+you do?
+2. Imagine that the system encounters a very serious bug. Initially, you are confident
+that your code is not the issue, and you inform the whole team that the problem must
+not have been caused by your side. The team is investigating the code to find the
+problem, and you assume they won't discover what caused the bug, but during your
+own investigation, you realize that the bug was indeed caused by your code. What
+would you do in this situation?
+3. Imagine that a part of the platform is supposed to be presented to important
+individuals, and the technical manager was initially assigned to do it. However, the
+technical manager cannot attend at the scheduled time for some reason. The
+company's manager asks you to present the system instead of the technical manager.
+What would you do in this situation?
+4. Imagine in a company setting that someone mocks your activities and occasionally
+says that you don't have enough capability and skills for this position, and you always
+mess things up. What would you do in such a situation?
+5. Imagine we are close to a very important product release, and all team members
+decide to allocate more time to meet the deadline. However, you have the option not
+to exceed the defined timeline. What would you do in this situation?
